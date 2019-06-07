@@ -1,0 +1,13 @@
+/home/piotr/dotnet/Spark/HelloSpark/bin/Debug/netcoreapp2.1/microsoft-spark-2.3.x-0.3.0.jar
+/home/piotr/dotnet/Spark/HelloSpark/bin/Debug/netcoreapp2.1/microsoft-spark-2.4.x-0.3.0.jar
+/home/piotr/dotnet/Spark/HelloSpark/bin/Debug/netcoreapp2.1/HelloSpark.deps.json
+/home/piotr/dotnet/Spark/HelloSpark/bin/Debug/netcoreapp2.1/HelloSpark.runtimeconfig.json
+/home/piotr/dotnet/Spark/HelloSpark/bin/Debug/netcoreapp2.1/HelloSpark.runtimeconfig.dev.json
+/home/piotr/dotnet/Spark/HelloSpark/bin/Debug/netcoreapp2.1/HelloSpark.dll
+/home/piotr/dotnet/Spark/HelloSpark/bin/Debug/netcoreapp2.1/HelloSpark.pdb
+/home/piotr/dotnet/Spark/HelloSpark/obj/Debug/netcoreapp2.1/HelloSpark.csprojAssemblyReference.cache
+/home/piotr/dotnet/Spark/HelloSpark/obj/Debug/netcoreapp2.1/HelloSpark.csproj.CoreCompileInputs.cache
+/home/piotr/dotnet/Spark/HelloSpark/obj/Debug/netcoreapp2.1/HelloSpark.AssemblyInfoInputs.cache
+/home/piotr/dotnet/Spark/HelloSpark/obj/Debug/netcoreapp2.1/HelloSpark.AssemblyInfo.cs
+/home/piotr/dotnet/Spark/HelloSpark/obj/Debug/netcoreapp2.1/HelloSpark.dll
+/home/piotr/dotnet/Spark/HelloSpark/obj/Debug/netcoreapp2.1/HelloSpark.pdb
